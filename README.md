@@ -1,1 +1,1 @@
-# Tri-Hard-Slab-Arcade-Edition
+# Tri-Hard Slab: Arcade Edition
