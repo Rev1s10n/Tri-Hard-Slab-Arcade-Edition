@@ -94,7 +94,7 @@ After load the setting file, there's 4 different profiles and there's shortcut c
 ## Custom artwork
 
 You can download the PSD file and dxf drawing reference in Custom artwork template folder for top panel.
-Print it out and insert the artwork between 01 and 02 acrylic layers.
+Print it out and insert the artwork between 02 and 03 acrylic layers.
 
 ## Attribution
 You're free to use this design as long as you credit to this page.
