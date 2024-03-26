@@ -1,7 +1,10 @@
 # Tri-Hard Slab: Arcade Edition
 ## **[English](README.md) | 繁體中文**
-這是前一個[專案](https://github.com/Rev1s10n/Tri-Hard-slab-v2)的更新，使用 [GP2040-CE](https://gp2040-ce.info/) 0.7.7 版韌體，客製 16 鍵配置。
+這是前一個[專案](https://github.com/Rev1s10n/Tri-Hard-slab-v2)的更新，使用 [GP2040-CE](https://gp2040-ce.info/) 0.7.7 版韌體，客製 16 鍵配置。<br>
 改用 Cherry MX 軸而非原版的凱華矮軸，CNC 鋁框與壓克力面板可以嵌入面板圖。
+
+**現階段由於有些設計缺陷導致組裝困難，不建議自行製作**<br>
+**未來會設計新的外殼來改善**
 
 ![The beauty shot 2](images/THSAE-000-main.jpg)
 ## 主要功能與規格
@@ -26,16 +29,16 @@
 其他的滑動開關現在位於上方
 
 ## 生產用檔案
-下載所有 Hardware files 資料夾中的檔案就能發給 PCB 廠商製作。我使用的依然是 JLCPCB。
-這張板子需要標準 PCBA 才能製作，JLCPCB 有可能在檢查檔案期間會跳錯誤（2 個針腳接在同一個 pad 上），但這是刻意的，他們最後還是會正常製作。
+下載所有 Hardware files 資料夾中的檔案就能發給 PCB 廠商製作。我使用的依然是 JLCPCB。<br>
+這張板子需要標準 PCBA 才能製作，JLCPCB 有可能在檢查檔案期間會跳錯誤（2 個針腳接在同一個 pad 上），但這是刻意的，他們最後還是會正常製作。<br>
 外殼跟壓克力／PC 的部分，CNC 鋁框有一個 step 檔，2 個 dxf 供壓克力雷切，1 個 dxf 供 CNC PC 定位板。
 
 ## 原始檔
-The Tri-Hard Slab AE 使用 Autodesk Fusion 360 跟 KiCad 7.0 製作。
+The Tri-Hard Slab AE 使用 Autodesk Fusion 360 跟 KiCad 7.0 製作。<br>
 所有原始檔都在 Source files 資料夾內，包含 Fusion 360 的粗略草稿，所有的雷射切割跟 step 檔，以及匯入 KiCad 對齊零件的圖都出自於這裡。
 
 ## 組裝與設定
-這跟上一個 build 比起來有些棘手。
+這跟上一個 build 比起來有些棘手。<br>
 你需要許多額外的東西才能完成組裝：
 - Cherry MX 軸，或是任何相容 MX 規格的軸體，我使用的是 Cherry MX 黑軸。
 - 16 個凱華 MX 熱插拔座（PG1511）。
@@ -93,9 +96,9 @@ The Tri-Hard Slab AE 使用 Autodesk Fusion 360 跟 KiCad 7.0 製作。
 
 ## 客製面板圖
 
-Custom artwork template 資料夾中有 PSD 跟 dxf 原檔參考。
+Custom artwork template 資料夾中有 PSD 跟 dxf 原檔參考。<br>
 印出來後把圖片夾在 02 跟 03 的壓克力之間即可。
 
 ## 姓名標示
-請自由使用，但需要註記來源自這個頁面。
+請自由使用，但需要註記來源自這個頁面。<br>
 [採用 CC 姓名標示 4.0](https://creativecommons.org/licenses/by/4.0/)
