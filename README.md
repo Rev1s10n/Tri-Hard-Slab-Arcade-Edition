@@ -1,10 +1,9 @@
 # Tri-Hard Slab: Arcade Edition
 ## **English | [繁體中文](README_zh-TW.md)**
-A follow up from my previous [build](https://github.com/Rev1s10n/Tri-Hard-slab-v2), powered by [GP2040-CE](https://gp2040-ce.info/) firmware (v.0.7.7) with custom 16 buttons layout.
+A follow up from my previous [build](https://github.com/Rev1s10n/Tri-Hard-slab-v2), powered by [GP2040-CE](https://gp2040-ce.info/) firmware (v.0.7.7) with custom 16 buttons layout.<br>
 This time it's made with Cherry MX switches instead of Kailh Choc switches, and CNC aluminum case with acrylic top layer for art insert.
 
-**I would suggest not build this yourself at this momemnt as there's some design flaws, which makes it really difficult to assemble**
-
+**I would suggest not build this yourself at this momemnt as there's some design flaws, which makes it really difficult to assemble**<br>
 **A new case design might come in the future**
 
 ![The beauty shot 2](images/THSAE-000-main.jpg)
@@ -30,16 +29,16 @@ _Passthrough device can be selected with this slide switch_
 _This time these switches is on the top side_
 
 ## Production files
-Simply download all production files via Hardware files folder, and utilize services like JLCPCB (which is what I did in this case) to order the board.
-The board need standard PCBA for certain components. JLCPCB might told you there's some error (2 pins on 1 pad) but it's intended, and they'll make the board nevertheless.
+Simply download all production files via Hardware files folder, and utilize services like JLCPCB (which is what I did in this case) to order the board.<br>
+The board need standard PCBA for certain components. JLCPCB might told you there's some error (2 pins on 1 pad) but it's intended, and they'll make the board nevertheless.<br>
 As for the case and acrylics / PC sheet, there's a step file for CNC aluminum case, 2 dxf files for laser cut acrylic, 1 dxf for CNC PC mounting plate.
 
 ## Source files
-The Tri-Hard Slab AE is made with Autodesk Fusion 360 and KiCad 7.0.
+The Tri-Hard Slab AE is made with Autodesk Fusion 360 and KiCad 7.0.<br>
 Everything is under Source files, include a rough Fusion 360 sketch which is the base of all laser-cut dxf files, step file and for KiCad to align things up.
 
 ## Assemble and settings
-This is a bit tricky compare to original build.
+This is a bit tricky compare to original build.<br>
 Here's some additional things you need to complete this build:
 - Cherry MX switches, or any MX compatible switches, I use Cherry MX Black in this case.
 - 16 Kailh MX hot swap socket (PG1511).
@@ -97,9 +96,9 @@ After load the setting file, there's 4 different profiles and there's shortcut c
 
 ## Custom artwork
 
-You can download the PSD file and dxf drawing reference in Custom artwork template folder for top panel.
+You can download the PSD file and dxf drawing reference in Custom artwork template folder for top panel.<br>
 Print it out and insert the artwork between 02 and 03 acrylic layers.
 
 ## Attribution
-You're free to use this design as long as you credit to this page.
+You're free to use this design as long as you credit to this page.<br>
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
