@@ -4,6 +4,7 @@ A follow up from my previous [build](https://github.com/Rev1s10n/Tri-Hard-slab-v
 This time it's made with Cherry MX switches instead of Kailh Choc switches, and CNC aluminum case with acrylic top layer for art insert.
 
 **I would suggest not build this yourself at this momemnt as there's some design flaws, which makes it really difficult to assemble**
+
 **A new case design might come in the future**
 
 ![The beauty shot 2](images/THSAE-000-main.jpg)
