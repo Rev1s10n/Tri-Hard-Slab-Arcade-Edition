@@ -64,8 +64,8 @@ The Tri-Hard Slab AE 使用 Autodesk Fusion 360 跟 KiCad 7.0 製作。<br>
 |R2/3K/RT|16|
 |S1/Select/Back|1|
 |S2/Start|3|
-|L3/LS|26|
-|R3/RS|25|
+|L3/LS|21|
+|R3/RS|22|
 |A1/Home/Guide|2|
 |A2/Touch|12|
 |Function|0|
