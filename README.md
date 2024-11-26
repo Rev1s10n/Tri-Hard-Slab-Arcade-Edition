@@ -1,6 +1,6 @@
 # Tri-Hard Slab: Arcade Edition
 ## **English | [繁體中文](README_zh-TW.md)**
-A follow up from my previous [build](https://github.com/Rev1s10n/Tri-Hard-slab-v2), powered by [GP2040-CE](https://gp2040-ce.info/) firmware (v.0.7.7) with custom 16 buttons layout.<br>
+A follow up from my previous [build](https://github.com/Rev1s10n/Tri-Hard-slab-v2), powered by [GP2040-CE](https://gp2040-ce.info/) firmware (v.0.7.10) with custom 16 buttons layout.<br>
 This time it's made with Cherry MX switches instead of Kailh Choc switches, and CNC aluminum case with acrylic top layer for art insert.
 
 **I would suggest not build this yourself at this momemnt as there's some design flaws, which makes it really difficult to assemble**<br>
