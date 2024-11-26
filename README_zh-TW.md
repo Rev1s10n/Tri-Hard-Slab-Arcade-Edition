@@ -1,6 +1,6 @@
 # Tri-Hard Slab: Arcade Edition
 ## **[English](README.md) | 繁體中文**
-這是前一個[專案](https://github.com/Rev1s10n/Tri-Hard-slab-v2)的更新，使用 [GP2040-CE](https://gp2040-ce.info/) 0.7.7 版韌體，客製 16 鍵配置。<br>
+這是前一個[專案](https://github.com/Rev1s10n/Tri-Hard-slab-v2)的更新，使用 [GP2040-CE](https://gp2040-ce.info/) 0.7.10 版韌體，客製 16 鍵配置。<br>
 改用 Cherry MX 軸而非原版的凱華矮軸，CNC 鋁框與壓克力面板可以嵌入面板圖。
 
 **現階段由於有些設計缺陷導致組裝困難，不建議自行製作**<br>
