@@ -64,8 +64,8 @@ There's a custom firmware with custom button layout for OLED display, and here's
 |R2/3K/RT|16|
 |S1/Select/Back|1|
 |S2/Start|3|
-|L3/LS|26|
-|R3/RS|25|
+|L3/LS|21|
+|R3/RS|22|
 |A1/Home/Guide|2|
 |A2/Touch|12|
 |Function|0|
